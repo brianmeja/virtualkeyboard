@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual Keyboard System
 
 A touchless typing system that uses computer vision and hand tracking to simulate keyboard input.
@@ -83,3 +84,6 @@ virtualkeyboard/
 ## 📝 License
 
 MIT License - feel free to use and modify! 
+=======
+# virtualkeyboard
+>>>>>>> origin/main
